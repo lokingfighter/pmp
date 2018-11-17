@@ -17,7 +17,6 @@ django-sslserver==0.20
 django-timezone-field==3.0
 djangorestframework==3.7.7
 djangorestframework-expiring-authtoken==0.1.4
-Django
 django-jenkins
 docutils==0.14
 factory-boy==2.11.1
